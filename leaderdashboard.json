@@ -1,6 +1,6 @@
 {
   "dashboardStatus": {
-    "lastUpdated": "2026-04-28T18:30:38.5077066"
+    "lastUpdated": "2026-04-28T18:39:54.7632826"
   },
   "kpiTargets": {
     "revenue": 6200000,
@@ -14,10 +14,10 @@
     "metrics": [
       {
         "category": "Umsatz",
-        "actual": 1795170,
+        "actual": 1864980,
         "target": 1984980,
         "positiveGreen": true,
-        "difference": -189810
+        "difference": -120000
       },
       {
         "category": "Kosten",
@@ -28,20 +28,20 @@
       },
       {
         "category": "Gewinn",
-        "actual": 90727,
+        "actual": 160537,
         "target": 320158,
         "positiveGreen": true,
-        "difference": -229431
+        "difference": -159621
       },
       {
         "category": "T&M (Hours)",
-        "actual": 13809,
+        "actual": 14346,
         "target": 15268,
         "positiveGreen": true,
-        "difference": -1459
+        "difference": -922
       }
     ],
-    "remainingTMPerDay": 196
+    "remainingTMPerDay": 193
   },
   "forecast": {
     "historicalData": [
@@ -65,57 +65,57 @@
       },
       {
         "month": 4,
-        "value": 90727,
-        "forecastMin": 90727,
-        "forecastMax": 90727
+        "value": 160537,
+        "forecastMin": 160537,
+        "forecastMax": 160537
       },
       {
         "month": 5,
         "value": null,
-        "forecastMin": 82860,
-        "forecastMax": 191582
+        "forecastMin": 152843,
+        "forecastMax": 261603
       },
       {
         "month": 6,
         "value": null,
-        "forecastMin": 74993,
-        "forecastMax": 292437
+        "forecastMin": 145149,
+        "forecastMax": 362669
       },
       {
         "month": 7,
         "value": null,
-        "forecastMin": 67126,
-        "forecastMax": 393292
+        "forecastMin": 137455,
+        "forecastMax": 463735
       },
       {
         "month": 8,
         "value": null,
-        "forecastMin": 59259,
-        "forecastMax": 494147
+        "forecastMin": 129761,
+        "forecastMax": 564801
       },
       {
         "month": 9,
         "value": null,
-        "forecastMin": 51392,
-        "forecastMax": 595002
+        "forecastMin": 122067,
+        "forecastMax": 665867
       },
       {
         "month": 10,
         "value": null,
-        "forecastMin": 43525,
-        "forecastMax": 695857
+        "forecastMin": 114373,
+        "forecastMax": 766933
       },
       {
         "month": 11,
         "value": null,
-        "forecastMin": 35658,
-        "forecastMax": 796712
+        "forecastMin": 106679,
+        "forecastMax": 867999
       },
       {
         "month": 12,
         "value": null,
-        "forecastMin": 27791,
-        "forecastMax": 897567
+        "forecastMin": 98985,
+        "forecastMax": 969065
       }
     ]
   },
@@ -153,19 +153,19 @@
     {
       "month": 4,
       "monthName": "Apr.",
-      "hoursTm": 2426,
-      "hoursTmAvg": 134,
-      "revenue": 315380,
+      "hoursTm": 2963,
+      "hoursTmAvg": 164,
+      "revenue": 385190,
       "costs": 404444,
       "ekz": 81,
-      "profit": -89064
+      "profit": -19254
     }
   ],
   "budgetPerformance": {
     "summary": {
       "planned": 4710484,
-      "realized": 1341636,
-      "remaining": 3368848
+      "realized": 1446943,
+      "remaining": 3263541
     },
     "customerDetails": [
       {
@@ -183,8 +183,8 @@
         "forecast": 1000000,
         "priorYear": 830581,
         "changePercent": 20,
-        "status": 266082,
-        "open": 733918
+        "status": 371389,
+        "open": 628611
       },
       {
         "id": 3603,
