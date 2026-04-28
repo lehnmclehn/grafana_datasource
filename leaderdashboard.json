@@ -1,6 +1,6 @@
 {
   "dashboardStatus": {
-    "lastUpdated": "2026-04-28T17:12:17.1953722"
+    "lastUpdated": "2026-04-28T17:31:56.5683115"
   },
   "kpiTargets": {
     "revenue": 6200000,
@@ -48,26 +48,26 @@
       {
         "month": 1,
         "value": 20757,
-        "forecastMin": null,
-        "forecastMax": null
+        "forecastMin": 20757,
+        "forecastMax": 20757
       },
       {
         "month": 2,
         "value": 69464,
-        "forecastMin": null,
-        "forecastMax": null
+        "forecastMin": 69464,
+        "forecastMax": 69464
       },
       {
         "month": 3,
         "value": 179791,
-        "forecastMin": null,
-        "forecastMax": null
+        "forecastMin": 179791,
+        "forecastMax": 179791
       },
       {
         "month": 4,
         "value": 90727,
-        "forecastMin": null,
-        "forecastMax": null
+        "forecastMin": 90727,
+        "forecastMax": 90727
       },
       {
         "month": 5,
@@ -122,6 +122,7 @@
   "monthlyDetails": [
     {
       "month": 1,
+      "monthName": "Jan.",
       "hoursTm": 3493,
       "hoursTmAvg": 166,
       "revenue": 454090,
@@ -131,6 +132,7 @@
     },
     {
       "month": 2,
+      "monthName": "Feb.",
       "hoursTm": 3708,
       "hoursTmAvg": 185,
       "revenue": 482040,
@@ -140,6 +142,7 @@
     },
     {
       "month": 3,
+      "monthName": "März",
       "hoursTm": 4182,
       "hoursTmAvg": 190,
       "revenue": 543660,
@@ -149,84 +152,13 @@
     },
     {
       "month": 4,
+      "monthName": "Apr.",
       "hoursTm": 2426,
       "hoursTmAvg": 134,
       "revenue": 315380,
       "costs": 404444,
       "ekz": 81,
       "profit": -89064
-    },
-    {
-      "month": 5,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 6,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 7,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 8,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 9,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 10,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 11,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
-    },
-    {
-      "month": 12,
-      "hoursTm": 0,
-      "hoursTmAvg": 0,
-      "revenue": 0,
-      "costs": 0,
-      "ekz": 0,
-      "profit": 0
     }
   ],
   "budgetPerformance": {
