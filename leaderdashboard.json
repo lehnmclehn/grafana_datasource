@@ -1,6 +1,6 @@
 {
   "dashboardStatus": {
-    "lastUpdated": "2026-04-28T18:02:53.5952402"
+    "lastUpdated": "2026-04-28T18:22:46.7359843"
   },
   "kpiTargets": {
     "revenue": 6200000,
@@ -72,50 +72,50 @@
       {
         "month": 5,
         "value": null,
-        "forecastMin": 93511,
-        "forecastMax": 96032
+        "forecastMin": -44421,
+        "forecastMax": 283324
       },
       {
         "month": 6,
         "value": null,
-        "forecastMin": 96295,
-        "forecastMax": 101337
+        "forecastMin": -179569,
+        "forecastMax": 475921
       },
       {
         "month": 7,
         "value": null,
-        "forecastMin": 99079,
-        "forecastMax": 106642
+        "forecastMin": -314717,
+        "forecastMax": 668518
       },
       {
         "month": 8,
         "value": null,
-        "forecastMin": 101863,
-        "forecastMax": 111947
+        "forecastMin": -449865,
+        "forecastMax": 861115
       },
       {
         "month": 9,
         "value": null,
-        "forecastMin": 104647,
-        "forecastMax": 117252
+        "forecastMin": -585013,
+        "forecastMax": 1053712
       },
       {
         "month": 10,
         "value": null,
-        "forecastMin": 107431,
-        "forecastMax": 122557
+        "forecastMin": -720161,
+        "forecastMax": 1246309
       },
       {
         "month": 11,
         "value": null,
-        "forecastMin": 110215,
-        "forecastMax": 127862
+        "forecastMin": -855309,
+        "forecastMax": 1438906
       },
       {
         "month": 12,
         "value": null,
-        "forecastMin": 112999,
-        "forecastMax": 133167
+        "forecastMin": -990457,
+        "forecastMax": 1631503
       }
     ]
   },
